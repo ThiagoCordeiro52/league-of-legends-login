@@ -11,10 +11,10 @@
 
 <p align="center">
  <a href="#bookmark_tabs-sobre">Sobre</a> •
+<a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
 <a href="#computer-deploy">Deploy</a> •
  <a href="#dvd-executar-o-projeto">Executar</a> •
- <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
