@@ -35,7 +35,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ### :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
-	👨‍🏫 O [projeto](https://thiagooliveiracordeiro.github.io/league-of-legends-login/) já foi concluído!
+	👨‍🏫 O <a href="https://thiagooliveiracordeiro.github.io/league-of-legends-login/">projeto</a> já foi concluído!
 </h4>
 
 ### :dvd: **Executar o Projeto**
