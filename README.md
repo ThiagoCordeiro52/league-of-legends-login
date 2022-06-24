@@ -18,7 +18,7 @@
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
-## :computer: Sobre
+## :bookmark_tabs: Sobre
 
 Projeto referente a aula prática de HTML, CSS e JavaScript do canal [Manual do Dev](https://www.youtube.com/c/ManualdoDev). Nesta aula, pude revisar na prática conceitos importantes de CSS: acessibilidade, responsividade e posicionamento de elementos. Além de aprofundar o entendimento e usar a manipulação de eventos e manipulação de DOM. 
 
@@ -35,7 +35,13 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ### :triangular_ruler: **Status do Projeto**
 
 <h4 align="center"> 
-	👨‍🏫 O <a href="https://thiagooliveiracordeiro.github.io/league-of-legends-login/">projeto</a> já foi concluído!
+	👨‍🏫 O projeto já foi concluído!
+</h4>
+
+### :computer: Deploy
+
+<h4 align="center"> 
+	Veja o projeto em execução: <a href="https://thiagooliveiracordeiro.github.io/league-of-legends-login/"> Riot Games</a>
 </h4>
 
 ### :dvd: **Executar o Projeto**
